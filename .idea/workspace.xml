@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ef10f7b-85e6-492b-9e2c-5b95aaf9355e" name="Changes" comment="">
+    <list default="true" id="0ef10f7b-85e6-492b-9e2c-5b95aaf9355e" name="Changes" comment="Using some tools with pandas, matplotlib, seaborn">
+      <change afterPath="$PROJECT_DIR$/6_window_functions_and_interactive_graphics_Homework.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/avocado_full.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_advanced_calculations_and_visualization_Homework.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_advanced_calculations_and_visualization_Homework.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +105,11 @@
       <option name="presentableId" value="Default" />
       <updated>1734632919668</updated>
       <workItem from="1734632921052" duration="3964000" />
-      <workItem from="1734678734799" duration="12077000" />
+      <workItem from="1734678734799" duration="12387000" />
+      <workItem from="1734857268608" duration="1861000" />
+      <workItem from="1734890286199" duration="2414000" />
+      <workItem from="1734938799677" duration="2249000" />
+      <workItem from="1734976999215" duration="6206000" />
     </task>
     <task id="LOCAL-00001" summary="Using base tools with pandas">
       <option name="closed" value="true" />
@@ -130,7 +135,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734640473513</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Using some tools with pandas, matplotlib, seaborn">
+      <option name="closed" value="true" />
+      <created>1734726458784</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734726458784</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +151,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Using base tools with pandas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Using base tools with pandas" />
+    <MESSAGE value="Using some tools with pandas, matplotlib, seaborn" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using some tools with pandas, matplotlib, seaborn" />
   </component>
 </project>
