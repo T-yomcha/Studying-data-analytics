@@ -5,8 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ef10f7b-85e6-492b-9e2c-5b95aaf9355e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/2_analytical_tasks_Homework.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/2_bookings.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_data_exploration_and_metrics_creation_Homework.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_solving_product_problems_Homework.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/drivers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/passengers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/taxi_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/transaction_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/transaction_data_updated.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3_advanced_calculations_and_visualization_Homework.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_advanced_calculations_and_visualization_Homework.ipynb" afterDir="false" />
     </list>
@@ -117,7 +123,12 @@
       <workItem from="1735160112986" duration="780000" />
       <workItem from="1735160910139" duration="1072000" />
       <workItem from="1735162006912" duration="443000" />
-      <workItem from="1735202696830" duration="3187000" />
+      <workItem from="1735202696830" duration="3900000" />
+      <workItem from="1735303925454" duration="4721000" />
+      <workItem from="1735388903335" duration="772000" />
+      <workItem from="1735452278268" duration="860000" />
+      <workItem from="1735458398792" duration="13139000" />
+      <workItem from="1735550222907" duration="4476000" />
     </task>
     <task id="LOCAL-00001" summary="Using base tools with pandas">
       <option name="closed" value="true" />
@@ -167,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735068306619</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Using pandas for solving analytical tasks">
+      <option name="closed" value="true" />
+      <created>1735210517588</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1735210517588</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +197,7 @@
     <MESSAGE value="Using some tools with pandas, matplotlib, seaborn" />
     <MESSAGE value="Using some tools: plotly for interactive graphics, rolling, cut" />
     <MESSAGE value="Using pandas for data structure validation, processing, aggregation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Using pandas for data structure validation, processing, aggregation" />
+    <MESSAGE value="Using pandas for solving analytical tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Using pandas for solving analytical tasks" />
   </component>
 </project>
