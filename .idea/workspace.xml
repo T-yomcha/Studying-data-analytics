@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ef10f7b-85e6-492b-9e2c-5b95aaf9355e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/4_data_exploration_and_metrics_creation_Homework.ipynb" afterDir="false" />
+    <list default="true" id="0ef10f7b-85e6-492b-9e2c-5b95aaf9355e" name="Changes" comment="Using pandas for solving analytical tasks">
       <change afterPath="$PROJECT_DIR$/5_solving_product_problems_Homework.ipynb" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/drivers.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/passengers.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/taxi_2.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/transaction_data.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/data/transaction_data_updated.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -41,6 +37,9 @@
     &quot;accountId&quot;: &quot;242f242e-760b-4b9b-b617-13118e4df7ac&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -128,7 +127,11 @@
       <workItem from="1735388903335" duration="772000" />
       <workItem from="1735452278268" duration="860000" />
       <workItem from="1735458398792" duration="13139000" />
-      <workItem from="1735550222907" duration="4476000" />
+      <workItem from="1735550222907" duration="5066000" />
+      <workItem from="1735638029986" duration="1709000" />
+      <workItem from="1735728555385" duration="8081000" />
+      <workItem from="1735809485296" duration="10133000" />
+      <workItem from="1735896622897" duration="4043000" />
     </task>
     <task id="LOCAL-00001" summary="Using base tools with pandas">
       <option name="closed" value="true" />
@@ -186,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735210517588</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Data exploring and metrics creation">
+      <option name="closed" value="true" />
+      <created>1735556451502</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1735556451502</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +209,7 @@
     <MESSAGE value="Using some tools: plotly for interactive graphics, rolling, cut" />
     <MESSAGE value="Using pandas for data structure validation, processing, aggregation" />
     <MESSAGE value="Using pandas for solving analytical tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Using pandas for solving analytical tasks" />
+    <MESSAGE value="Data exploring and metrics creation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data exploring and metrics creation" />
   </component>
 </project>
